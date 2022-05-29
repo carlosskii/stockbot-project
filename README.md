@@ -13,3 +13,6 @@ I'm sure there are bugs in this. While no-one would use this professionally anyw
 ## Customizing
 
 There are fields at the top of the program that can be changed. These can change the starting money, amount of bots, mutation variation, and more.
+
+DATA.bots is the training data
+stockbot.py is the trainer
